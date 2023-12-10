@@ -22,7 +22,7 @@ ___
 
 ## Concept
 
->**[[Concept Plan]]**
+>[[Concept Plan]]
 
 ## Prototyping
 >[[Prototyping]]

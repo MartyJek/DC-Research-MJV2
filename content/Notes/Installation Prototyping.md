@@ -7,13 +7,21 @@ ___
 ![[IMG_0077.jpg]]
 
 ___
+## V2
 
-# Mise-en-place
+![[IMG_0114a 1.jpg]]
 
-1. Old, salvaged Laptop > Lenovo G50-30
-- [ ] Install lightweight Linux Distro
-- [ ] Throttle PCs power consumption (throttle CPU/GPU)
-- [ ] 
+![[IMG_0114.jpg]]
+
+___
+
+
+![[51C101CD-DDE1-42F1-90FF-D4369B6280AE 1.jpg]]
+
+![[IMG_0221 1.jpg]]
+
+![[IMG_0220 1.jpg]]
+
 
 
 ![[IMG_0107.jpg|300]]
@@ -39,9 +47,11 @@ ___
 
 
 ![[IMG_0150.jpg]]
+___
 
 
+![[IMG_0223 1.jpg]]
 
-
+![[IMG_0225 1.jpg]]
 
 

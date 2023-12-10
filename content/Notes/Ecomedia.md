@@ -27,6 +27,9 @@ ___
 
 One that traces the physical footprint of our media practices to mount an environmental critique around resource depletion and other environmental concerns **(media as environment)**
 	- proceeds through extended engagement with the **full environmental context** of the production, distribution, consumption, and cultural afterlife of particular media genres and works, borrowing the network-tracing methodologies pioneered by science and technology studies and actor-network theory.
+## Environment through Media
+
+ Another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
 
 ### Full Environmental Context
 
@@ -37,9 +40,6 @@ One that traces the physical footprint of our media practices to mount an enviro
 	- Outputting/Rendering
 2. Distribution
 3. Displaying/Consuming
-## Environment through Media
-
- Another that follows environmental ideas and images as they are disseminated and remixed across various media (environment through media).
 
 ___
 ## Bandwidth Imperialism and Small-File Media - Post45
@@ -80,6 +80,6 @@ ___
 
 
 
-[^1]: Adamson, Joni, et al. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
+[^1]: Zisner, Michael. “23 - Ecomedia.” _Keywords for Environmental Studies_, New York University Press, New York, NY, 2016, pp. 75–76.
 
 

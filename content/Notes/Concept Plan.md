@@ -1,4 +1,3 @@
-*___*
 # Introduction
 
 	![[Untitled_Artwork.jpg]]
